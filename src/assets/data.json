@@ -1,0 +1,1442 @@
+[
+    {
+        "surah": 26,
+        "data": [
+            {
+                "timestamp": "0",
+                "ayah": 135,
+                "file": 127
+            },
+            {
+                "timestamp": "36.569759",
+                "ayah": 136,
+                "file": 127
+            },
+            {
+                "timestamp": "122.771712",
+                "ayah": 137,
+                "file": 127
+            },
+            {
+                "timestamp": "224.059621",
+                "ayah": 138,
+                "file": 127
+            },
+            {
+                "timestamp": "243.860487",
+                "ayah": 139,
+                "file": 127
+            },
+            {
+                "timestamp": "260.066929",
+                "ayah": 140,
+                "file": 127
+            },
+            {
+                "timestamp": "266.65541",
+                "ayah": 141,
+                "file": 127
+            },
+            {
+                "timestamp": "277.48682",
+                "ayah": 142,
+                "file": 127
+            },
+            {
+                "timestamp": "290.368013",
+                "ayah": 143,
+                "file": 127
+            },
+            {
+                "timestamp": "297.359802",
+                "ayah": 144,
+                "file": 127
+            },
+            {
+                "timestamp": "304.469012",
+                "ayah": 145,
+                "file": 127
+            },
+            {
+                "timestamp": "442.601002",
+                "ayah": 146,
+                "file": 127
+            },
+            {
+                "timestamp": "480.563262",
+                "ayah": 147,
+                "file": 127
+            },
+            {
+                "timestamp": "495.018442",
+                "ayah": 148,
+                "file": 127
+            },
+            {
+                "timestamp": "779.983601",
+                "ayah": 149,
+                "file": 127
+            },
+            {
+                "timestamp": "1078.298927",
+                "ayah": 150,
+                "file": 127
+            },
+            {
+                "timestamp": "1083.293162",
+                "ayah": 151,
+                "file": 127
+            },
+            {
+                "timestamp": "1110.944841",
+                "ayah": 152,
+                "file": 127
+            },
+            {
+                "timestamp": "1119.451798",
+                "ayah": 153,
+                "file": 127
+            },
+            {
+                "timestamp": "1154.488124",
+                "ayah": 154,
+                "file": 127
+            },
+            {
+                "timestamp": "1166.114098",
+                "ayah": 155,
+                "file": 127
+            },
+            {
+                "timestamp": "1432.300654",
+                "ayah": 156,
+                "file": 127
+            },
+            {
+                "timestamp": "1455.633778",
+                "ayah": 157,
+                "file": 127
+            },
+            {
+                "timestamp": "1497.981011",
+                "ayah": 158,
+                "file": 127
+            },
+            {
+                "timestamp": "1509.711356",
+                "ayah": 159,
+                "file": 127
+            },
+            {
+                "timestamp": "1517.297343",
+                "ayah": 160,
+                "file": 127
+            },
+            {
+                "timestamp": "1540.375115",
+                "ayah": 161,
+                "file": 127
+            },
+            {
+                "timestamp": "1551.278686",
+                "ayah": 162,
+                "file": 127
+            },
+            {
+                "timestamp": "1555.302955",
+                "ayah": 163,
+                "file": 127
+            },
+            {
+                "timestamp": "1559.571856",
+                "ayah": 164,
+                "file": 127
+            },
+            {
+                "timestamp": "1569.181473",
+                "ayah": 165,
+                "file": 127
+            },
+            {
+                "timestamp": "1743.750708",
+                "ayah": 166,
+                "file": 127
+            },
+            {
+                "timestamp": "1793.719997",
+                "ayah": 167,
+                "file": 127
+            },
+            {
+                "timestamp": "1821.773472",
+                "ayah": 168,
+                "file": 127
+            },
+            {
+                "timestamp": "1956.285468",
+                "ayah": 169,
+                "file": 127
+            },
+            {
+                "timestamp": "1971.06993",
+                "ayah": 170,
+                "file": 127
+            },
+            {
+                "timestamp": "1985.523742",
+                "ayah": 171,
+                "file": 127
+            },
+            {
+                "timestamp": "2031.18334",
+                "ayah": 172,
+                "file": 127
+            },
+            {
+                "timestamp": "2109.382601",
+                "ayah": 173,
+                "file": 127
+            },
+            {
+                "timestamp": "2151.52828",
+                "ayah": 174,
+                "file": 127
+            },
+            {
+                "timestamp": "2157.91204",
+                "ayah": 175,
+                "file": 127
+            },
+            {
+                "timestamp": "2163.210413",
+                "ayah": 176,
+                "file": 127
+            },
+            {
+                "timestamp": "2821.744998",
+                "ayah": 177,
+                "file": 127
+            },
+            {
+                "timestamp": "2858.492244",
+                "ayah": 178,
+                "file": 127
+            },
+            {
+                "timestamp": "2885.726846",
+                "ayah": 179,
+                "file": 127
+            },
+            {
+                "timestamp": "2889.378935",
+                "ayah": 180,
+                "file": 127
+            },
+            {
+                "timestamp": "2937.425976",
+                "ayah": 181,
+                "file": 127
+            },
+            {
+                "timestamp": "3002.497777",
+                "ayah": 182,
+                "file": 127
+            },
+            {
+                "timestamp": "3069.927442",
+                "ayah": 183,
+                "file": 127
+            },
+            {
+                "timestamp": "3193.81198",
+                "ayah": 184,
+                "file": 127
+            },
+            {
+                "timestamp": "3308.23492",
+                "ayah": 185,
+                "file": 127
+            },
+            {
+                "timestamp": "3316.87142",
+                "ayah": 186,
+                "file": 127
+            },
+            {
+                "timestamp": "3349.19287",
+                "ayah": 187,
+                "file": 127
+            },
+            {
+                "timestamp": "3422.914171",
+                "ayah": 188,
+                "file": 127
+            },
+            {
+                "timestamp": "3440.757937",
+                "ayah": 189,
+                "file": 127
+            },
+            {
+                "timestamp": "3505.160758",
+                "ayah": 190,
+                "file": 127
+            },
+            {
+                "timestamp": "3512.455042",
+                "ayah": 191,
+                "file": 127
+            },
+            {
+                "timestamp": "3516.180656",
+                "ayah": 192,
+                "file": 127
+            },
+            {
+                "timestamp": "3572.301628",
+                "ayah": 193,
+                "file": 127
+            },
+            {
+                "timestamp": "3608.662823",
+                "ayah": 194,
+                "file": 127
+            },
+            {
+                "timestamp": "3645.027847",
+                "ayah": 195,
+                "file": 127
+            },
+            {
+                "timestamp": "3745.946935",
+                "ayah": 196,
+                "file": 127
+            },
+            {
+                "timestamp": "3801.303597",
+                "ayah": 197,
+                "file": 127
+            },
+            {
+                "timestamp": "3952.40155",
+                "ayah": 198,
+                "file": 127
+            },
+            {
+                "timestamp": "4110.603716",
+                "ayah": 199,
+                "file": 127
+            },
+            {
+                "timestamp": "4236.901982",
+                "ayah": 200,
+                "file": 127
+            },
+            {
+                "timestamp": "4269.246156",
+                "ayah": 201,
+                "file": 127
+            },
+            {
+                "timestamp": "4288.516696",
+                "ayah": 202,
+                "file": 127
+            },
+            {
+                "timestamp": "4306.467972",
+                "ayah": 203,
+                "file": 127
+            },
+            {
+                "timestamp": "4328.026353",
+                "ayah": 204,
+                "file": 127
+            },
+            {
+                "timestamp": "4349.262833",
+                "ayah": 205,
+                "file": 127
+            },
+            {
+                "timestamp": "4376.789297",
+                "ayah": 206,
+                "file": 127
+            },
+            {
+                "timestamp": "4390.228595",
+                "ayah": 207,
+                "file": 127
+            },
+            {
+                "timestamp": "4411.872267",
+                "ayah": 208,
+                "file": 127
+            },
+            {
+                "timestamp": "4432.424887",
+                "ayah": 209,
+                "file": 127
+            },
+            {
+                "timestamp": "4446.967003",
+                "ayah": 210,
+                "file": 127
+            },
+            {
+                "timestamp": "4494.837923",
+                "ayah": 211,
+                "file": 127
+            },
+            {
+                "timestamp": "4509.917527",
+                "ayah": 212,
+                "file": 127
+            },
+            {
+                "timestamp": "4534.811706",
+                "ayah": 213,
+                "file": 127
+            },
+            {
+                "timestamp": "4560.92514",
+                "ayah": 214,
+                "file": 127
+            },
+            {
+                "timestamp": "4606.46631",
+                "ayah": 215,
+                "file": 127
+            },
+            {
+                "timestamp": "4636.330892",
+                "ayah": 216,
+                "file": 127
+            },
+            {
+                "timestamp": "4663.407133",
+                "ayah": 217,
+                "file": 127
+            },
+            {
+                "timestamp": "4668.725943",
+                "ayah": 218,
+                "file": 127
+            },
+            {
+                "timestamp": "4676.244903",
+                "ayah": 219,
+                "file": 127
+            },
+            {
+                "timestamp": "4733.356837",
+                "ayah": 220,
+                "file": 127
+            },
+            {
+                "timestamp": "4799.874738",
+                "ayah": 221,
+                "file": 127
+            },
+            {
+                "timestamp": "4867.654854",
+                "ayah": 222,
+                "file": 127
+            },
+            {
+                "timestamp": "4889.264677",
+                "ayah": 223,
+                "file": 127
+            },
+            {
+                "timestamp": "4964.428276",
+                "ayah": 224,
+                "file": 127
+            },
+            {
+                "timestamp": "4990.53111",
+                "ayah": 225,
+                "file": 127
+            },
+            {
+                "timestamp": "5065.927478",
+                "ayah": 226,
+                "file": 127
+            },
+            {
+                "timestamp": "5121.283063",
+                "ayah": 227,
+                "file": 127
+            }
+        ]
+    },
+    {
+        "surah": 27,
+        "data": [
+            {
+                "timestamp": 5234.596348,
+                "ayah": 1,
+                "file": 127
+            },
+            {
+                "timestamp": 5266.401628,
+                "ayah": 2,
+                "file": 127
+            },
+            {
+                "timestamp": 5298.571582,
+                "ayah": 3,
+                "file": 127
+            },
+            {
+                "timestamp": 5341.906558,
+                "ayah": 4,
+                "file": 127
+            },
+            {
+                "timestamp": 5392.131656,
+                "ayah": 5,
+                "file": 127
+            },
+            {
+                "timestamp": 5436.070518,
+                "ayah": 6,
+                "file": 127
+            },
+            {
+                "timestamp": 5496.486614,
+                "ayah": 7,
+                "file": 127
+            },
+            {
+                "timestamp": 0,
+                "ayah": 17,
+                "file": 128
+            },
+            {
+                "timestamp": 15.863888,
+                "ayah": 18,
+                "file": 128
+            },
+            {
+                "timestamp": 395.360811,
+                "ayah": 19,
+                "file": 128
+            },
+            {
+                "timestamp": 690.393409,
+                "ayah": 20,
+                "file": 128
+            },
+            {
+                "timestamp": 857.056681,
+                "ayah": 21,
+                "file": 128
+            },
+            {
+                "timestamp": 1083.168357,
+                "ayah": 22,
+                "file": 128
+            },
+            {
+                "timestamp": "34.175737",
+                "ayah": 23,
+                "file": 129
+            },
+            {
+                "timestamp": "119.374845",
+                "ayah": 24,
+                "file": 129
+            },
+            {
+                "timestamp": "273.404061",
+                "ayah": 25,
+                "file": 129
+            },
+            {
+                "timestamp": "391.231813",
+                "ayah": 26,
+                "file": 129
+            },
+            {
+                "timestamp": "426.557428",
+                "ayah": 27,
+                "file": 129
+            },
+            {
+                "timestamp": "476.468506",
+                "ayah": 28,
+                "file": 129
+            },
+            {
+                "timestamp": "677.031747",
+                "ayah": 29,
+                "file": 129
+            },
+            {
+                "timestamp": "833.015934",
+                "ayah": 30,
+                "file": 129
+            },
+            {
+                "timestamp": "940.436077",
+                "ayah": 31,
+                "file": 129
+            },
+            {
+                "timestamp": "1054.945391",
+                "ayah": 32,
+                "file": 129
+            },
+            {
+                "timestamp": "1213.506507",
+                "ayah": 33,
+                "file": 129
+            },
+            {
+                "timestamp": "1394.668606",
+                "ayah": 34,
+                "file": 129
+            },
+            {
+                "timestamp": "1665.827721",
+                "ayah": 35,
+                "file": 129
+            },
+            {
+                "timestamp": "1799.320804",
+                "ayah": 36,
+                "file": 129
+            },
+            {
+                "timestamp": "2108.542132",
+                "ayah": 37,
+                "file": 129
+            },
+            {
+                "timestamp": "2458.677335",
+                "ayah": 38,
+                "file": 129
+            },
+            {
+                "timestamp": "2523.765857",
+                "ayah": 39,
+                "file": 129
+            },
+            {
+                "timestamp": "2765.319772",
+                "ayah": 40,
+                "file": 129
+            },
+            {
+                "timestamp": "3169.070792",
+                "ayah": 41,
+                "file": 129
+            },
+            {
+                "timestamp": "3357.786447",
+                "ayah": 42,
+                "file": 129
+            },
+            {
+                "timestamp": "3630.141392",
+                "ayah": 43,
+                "file": 129
+            },
+            {
+                "timestamp": "4163.089005",
+                "ayah": 44,
+                "file": 129
+            },
+            {
+                "timestamp": "4748.750524",
+                "ayah": 45,
+                "file": 129
+            },
+            {
+                "timestamp": "4808.424112",
+                "ayah": 46,
+                "file": 129
+            },
+            {
+                "timestamp": "4895.043275",
+                "ayah": 47,
+                "file": 129
+            },
+            {
+                "timestamp": "5054.74255",
+                "ayah": 48,
+                "file": 129
+            },
+            {
+                "timestamp": "5171.173486",
+                "ayah": 49,
+                "file": 129
+            },
+            {
+                "timestamp": "5512.968322",
+                "ayah": 50,
+                "file": 129
+            },
+            {
+                "timestamp": "5533.734078",
+                "ayah": 51,
+                "file": 129
+            },
+            {
+                "timestamp": "59.552664",
+                "ayah": 52,
+                "file": 130
+            },
+            {
+                "timestamp": "147.175882",
+                "ayah": 53,
+                "file": 130
+            },
+            {
+                "timestamp": "156.554964",
+                "ayah": 54,
+                "file": 130
+            },
+            {
+                "timestamp": "209.918817",
+                "ayah": 55,
+                "file": 130
+            },
+            {
+                "timestamp": "247.681015",
+                "ayah": 56,
+                "file": 130
+            },
+            {
+                "timestamp": "328.298585",
+                "ayah": 57,
+                "file": 130
+            },
+            {
+                "timestamp": "357.45577",
+                "ayah": 58,
+                "file": 130
+            },
+            {
+                "timestamp": "388.847708",
+                "ayah": 59,
+                "file": 130
+            },
+            {
+                "timestamp": "514.669292",
+                "ayah": 60,
+                "file": 130
+            },
+            {
+                "timestamp": "876.774576",
+                "ayah": 61,
+                "file": 130
+            },
+            {
+                "timestamp": "1284.852782",
+                "ayah": 62,
+                "file": 130
+            },
+            {
+                "timestamp": "1499.23573",
+                "ayah": 63,
+                "file": 130
+            },
+            {
+                "timestamp": "2109.574893",
+                "ayah": 64,
+                "file": 130
+            },
+            {
+                "timestamp": "2373.763636",
+                "ayah": 65,
+                "file": 130
+            },
+            {
+                "timestamp": "2619.416039",
+                "ayah": 66,
+                "file": 130
+            },
+            {
+                "timestamp": "3173.679608",
+                "ayah": 67,
+                "file": 130
+            },
+            {
+                "timestamp": "3223.365799",
+                "ayah": 68,
+                "file": 130
+            },
+            {
+                "timestamp": "3290.257987",
+                "ayah": 69,
+                "file": 130
+            },
+            {
+                "timestamp": "3302.200236",
+                "ayah": 70,
+                "file": 130
+            },
+            {
+                "timestamp": "3346.506811",
+                "ayah": 71,
+                "file": 130
+            },
+            {
+                "timestamp": "3359.87451",
+                "ayah": 72,
+                "file": 130
+            },
+            {
+                "timestamp": "3458.180937",
+                "ayah": 73,
+                "file": 130
+            },
+            {
+                "timestamp": "3471.819989",
+                "ayah": 74,
+                "file": 130
+            },
+            {
+                "timestamp": "3541.273736",
+                "ayah": 75,
+                "file": 130
+            },
+            {
+                "timestamp": "3576.885313",
+                "ayah": 76,
+                "file": 130
+            },
+            {
+                "timestamp": "3612.884062",
+                "ayah": 77,
+                "file": 130
+            },
+            {
+                "timestamp": "3709.6274",
+                "ayah": 78,
+                "file": 130
+            },
+            {
+                "timestamp": "3729.424002",
+                "ayah": 79,
+                "file": 130
+            },
+            {
+                "timestamp": "3746.366507",
+                "ayah": 80,
+                "file": 130
+            },
+            {
+                "timestamp": "3794.759533",
+                "ayah": 81,
+                "file": 130
+            },
+            {
+                "timestamp": "3902.326592",
+                "ayah": 82,
+                "file": 130
+            },
+            {
+                "timestamp": "4092.677356",
+                "ayah": 83,
+                "file": 130
+            },
+            {
+                "timestamp": "4183.944323",
+                "ayah": 84,
+                "file": 130
+            },
+            {
+                "timestamp": "4254.139032",
+                "ayah": 85,
+                "file": 130
+            },
+            {
+                "timestamp": "4284.825488",
+                "ayah": 86,
+                "file": 130
+            },
+            {
+                "timestamp": "4341.220862",
+                "ayah": 87,
+                "file": 130
+            },
+            {
+                "timestamp": "4469.71341",
+                "ayah": 88,
+                "file": 130
+            },
+            {
+                "timestamp": "4835.088112",
+                "ayah": 89,
+                "file": 130
+            },
+            {
+                "timestamp": "4903.410314",
+                "ayah": 90,
+                "file": 130
+            },
+            {
+                "timestamp": "4971.536988",
+                "ayah": 91,
+                "file": 130
+            },
+            {
+                "timestamp": "5077.414345",
+                "ayah": 92,
+                "file": 130
+            },
+            {
+                "timestamp": "5150.538619",
+                "ayah": 93,
+                "file": 130
+            }
+        ]
+    },
+    {
+        "surah": 28,
+        "data": [
+            {
+                "timestamp": "5189.55821",
+                "ayah": 1,
+                "file": 130
+            },
+            {
+                "timestamp": "5212.666741",
+                "ayah": 2,
+                "file": 130
+            },
+            {
+                "timestamp": "5230.620265",
+                "ayah": 3,
+                "file": 130
+            },
+            {
+                "timestamp": "5298.31006",
+                "ayah": 4,
+                "file": 130
+            },
+            {
+                "timestamp": "87.419286",
+                "ayah": 5,
+                "file": 131
+            },
+            {
+                "timestamp": "224.307567",
+                "ayah": 6,
+                "file": 131
+            },
+            {
+                "timestamp": "672.576807",
+                "ayah": 7,
+                "file": 131
+            },
+            {
+                "timestamp": "808.893458",
+                "ayah": 8,
+                "file": 131
+            },
+            {
+                "timestamp": "1084.65285",
+                "ayah": 9,
+                "file": 131
+            },
+            {
+                "timestamp": "1340.046065",
+                "ayah": 10,
+                "file": 131
+            },
+            {
+                "timestamp": "1573.893617",
+                "ayah": 11,
+                "file": 131
+            },
+            {
+                "timestamp": "1774.432701",
+                "ayah": 12,
+                "file": 131
+            },
+            {
+                "timestamp": "1911.57066",
+                "ayah": 13,
+                "file": 131
+            },
+            {
+                "timestamp": "2011.444638",
+                "ayah": 14,
+                "file": 131
+            },
+            {
+                "timestamp": "2153.76596",
+                "ayah": 15,
+                "file": 131
+            },
+            {
+                "timestamp": "2647.12897",
+                "ayah": 16,
+                "file": 131
+            },
+            {
+                "timestamp": "2712.848898",
+                "ayah": 17,
+                "file": 131
+            },
+            {
+                "timestamp": "2786.148397",
+                "ayah": 18,
+                "file": 131
+            },
+            {
+                "timestamp": "2997.504165",
+                "ayah": 19,
+                "file": 131
+            },
+            {
+                "timestamp": "3178.962802",
+                "ayah": 20,
+                "file": 131
+            },
+            {
+                "timestamp": "3307.027639",
+                "ayah": 21,
+                "file": 131
+            },
+            {
+                "timestamp": "3338.600767",
+                "ayah": 22,
+                "file": 131
+            },
+            {
+                "timestamp": "3477.750236",
+                "ayah": 23,
+                "file": 131
+            },
+            {
+                "timestamp": "3959.344188",
+                "ayah": 24,
+                "file": 131
+            },
+            {
+                "timestamp": "4013.01091",
+                "ayah": 25,
+                "file": 131
+            },
+            {
+                "timestamp": "4202.377346",
+                "ayah": 26,
+                "file": 131
+            },
+            {
+                "timestamp": "4347.537614",
+                "ayah": 27,
+                "file": 131
+            },
+            {
+                "timestamp": "4736.20132",
+                "ayah": 28,
+                "file": 131
+            },
+            {
+                "timestamp": "4876.70809",
+                "ayah": 29,
+                "file": 131
+            },
+            {
+                "timestamp": "5073.839944",
+                "ayah": 30,
+                "file": 131
+            },
+            {
+                "timestamp": "5344.373593",
+                "ayah": 31,
+                "file": 131
+            },
+            {
+                "timestamp": "5454.794915",
+                "ayah": 32,
+                "file": 131
+            },
+            {
+                "timestamp": "513.481477",
+                "ayah": 33,
+                "file": 132
+            },
+            {
+                "timestamp": "567.351658",
+                "ayah": 34,
+                "file": 132
+            },
+            {
+                "timestamp": "951.944035",
+                "ayah": 35,
+                "file": 132
+            },
+            {
+                "timestamp": "1458.698355",
+                "ayah": 36,
+                "file": 132
+            },
+            {
+                "timestamp": "1669.155731",
+                "ayah": 37,
+                "file": 132
+            },
+            {
+                "timestamp": "1841.590194",
+                "ayah": 38,
+                "file": 132
+            },
+            {
+                "timestamp": "2174.084285",
+                "ayah": 39,
+                "file": 132
+            },
+            {
+                "timestamp": "2264.633449",
+                "ayah": 40,
+                "file": 132
+            },
+            {
+                "timestamp": "2301.913485",
+                "ayah": 41,
+                "file": 132
+            },
+            {
+                "timestamp": "2351.996136",
+                "ayah": 42,
+                "file": 132
+            },
+            {
+                "timestamp": "2452.658334",
+                "ayah": 43,
+                "file": 132
+            },
+            {
+                "timestamp": "2620.777378",
+                "ayah": 44,
+                "file": 132
+            },
+            {
+                "timestamp": "3003.244887",
+                "ayah": 45,
+                "file": 132
+            },
+            {
+                "timestamp": "3281.993385",
+                "ayah": 46,
+                "file": 132
+            },
+            {
+                "timestamp": "3403.871253",
+                "ayah": 47,
+                "file": 132
+            },
+            {
+                "timestamp": "3637.825524",
+                "ayah": 48,
+                "file": 132
+            },
+            {
+                "timestamp": "3911.683084",
+                "ayah": 49,
+                "file": 132
+            },
+            {
+                "timestamp": "4127.810716",
+                "ayah": 50,
+                "file": 132
+            },
+            {
+                "timestamp": "4194.595715",
+                "ayah": 51,
+                "file": 132
+            },
+            {
+                "timestamp": "4246.161333",
+                "ayah": 52,
+                "file": 132
+            },
+            {
+                "timestamp": "4288.074738",
+                "ayah": 53,
+                "file": 132
+            },
+            {
+                "timestamp": "4329.678876",
+                "ayah": 54,
+                "file": 132
+            },
+            {
+                "timestamp": "4481.501532",
+                "ayah": 55,
+                "file": 132
+            },
+            {
+                "timestamp": "4651.258228",
+                "ayah": 56,
+                "file": 132
+            },
+            {
+                "timestamp": "4708.913059",
+                "ayah": 57,
+                "file": 132
+            },
+            {
+                "timestamp": "5152.516103",
+                "ayah": 58,
+                "file": 132
+            },
+            {
+                "timestamp": "4.829179",
+                "ayah": 59,
+                "file": 133
+            },
+            {
+                "timestamp": "145.309863",
+                "ayah": 60,
+                "file": 133
+            },
+            {
+                "timestamp": "232.437905",
+                "ayah": 61,
+                "file": 133
+            },
+            {
+                "timestamp": "331.023523",
+                "ayah": 62,
+                "file": 133
+            },
+            {
+                "timestamp": "395.231106",
+                "ayah": 63,
+                "file": 133
+            },
+            {
+                "timestamp": "583.409869",
+                "ayah": 64,
+                "file": 133
+            },
+            {
+                "timestamp": "692.116523",
+                "ayah": 65,
+                "file": 133
+            },
+            {
+                "timestamp": "728.61837",
+                "ayah": 66,
+                "file": 133
+            },
+            {
+                "timestamp": "894.867283",
+                "ayah": 67,
+                "file": 133
+            },
+            {
+                "timestamp": "915.373637",
+                "ayah": 68,
+                "file": 133
+            },
+            {
+                "timestamp": "1123.266401",
+                "ayah": 69,
+                "file": 133
+            },
+            {
+                "timestamp": "1175.330736",
+                "ayah": 70,
+                "file": 133
+            },
+            {
+                "timestamp": "1230.874886",
+                "ayah": 71,
+                "file": 133
+            },
+            {
+                "timestamp": "1449.062689",
+                "ayah": 72,
+                "file": 133
+            },
+            {
+                "timestamp": "1510.229131",
+                "ayah": 73,
+                "file": 133
+            },
+            {
+                "timestamp": "1580.459268",
+                "ayah": 74,
+                "file": 133
+            },
+            {
+                "timestamp": "1595.966527",
+                "ayah": 75,
+                "file": 133
+            },
+            {
+                "timestamp": "1668.457668",
+                "ayah": 76,
+                "file": 133
+            },
+            {
+                "timestamp": "2042.599961",
+                "ayah": 77,
+                "file": 133
+            },
+            {
+                "timestamp": "2182.448651",
+                "ayah": 78,
+                "file": 133
+            },
+            {
+                "timestamp": "2469.138835",
+                "ayah": 79,
+                "file": 133
+            },
+            {
+                "timestamp": "2631.690985",
+                "ayah": 80,
+                "file": 133
+            },
+            {
+                "timestamp": "2786.917332",
+                "ayah": 81,
+                "file": 133
+            },
+            {
+                "timestamp": "2910.235513",
+                "ayah": 82,
+                "file": 133
+            },
+            {
+                "timestamp": "3274.345124",
+                "ayah": 83,
+                "file": 133
+            },
+            {
+                "timestamp": "3366.557132",
+                "ayah": 84,
+                "file": 133
+            },
+            {
+                "timestamp": "3406.180083",
+                "ayah": 85,
+                "file": 133
+            },
+            {
+                "timestamp": "3906.821458",
+                "ayah": 86,
+                "file": 133
+            },
+            {
+                "timestamp": "3973.634265",
+                "ayah": 87,
+                "file": 133
+            },
+            {
+                "timestamp": "4015.651458",
+                "ayah": 88,
+                "file": 133
+            }
+        ]
+    },
+    {
+        "surah": 29,
+        "data": [
+            {
+                "timestamp": "4097.960569",
+                "ayah": 1,
+                "file": 133
+            },
+            {
+                "timestamp": "4104.994911",
+                "ayah": 2,
+                "file": 133
+            },
+            {
+                "timestamp": "4185.621427",
+                "ayah": 3,
+                "file": 133
+            },
+            {
+                "timestamp": "4230.143194",
+                "ayah": 4,
+                "file": 133
+            },
+            {
+                "timestamp": "4278.773493",
+                "ayah": 5,
+                "file": 133
+            },
+            {
+                "timestamp": "4358.659003",
+                "ayah": 6,
+                "file": 133
+            },
+            {
+                "timestamp": "4407.223907",
+                "ayah": 7,
+                "file": 133
+            },
+            {
+                "timestamp": "4483.344828",
+                "ayah": 8,
+                "file": 133
+            },
+            {
+                "timestamp": "4613.439532",
+                "ayah": 9,
+                "file": 133
+            },
+            {
+                "timestamp": "4625.114081",
+                "ayah": 10,
+                "file": 133
+            },
+            {
+                "timestamp": "4820.467037",
+                "ayah": 11,
+                "file": 133
+            },
+            {
+                "timestamp": "4840.074754",
+                "ayah": 12,
+                "file": 133
+            },
+            {
+                "timestamp": "4970.086375",
+                "ayah": 13,
+                "file": 133
+            },
+            {
+                "timestamp": "5033.373092",
+                "ayah": 14,
+                "file": 133
+            },
+            {
+                "timestamp": "5160.212803",
+                "ayah": 15,
+                "file": 133
+            },
+            {
+                "timestamp": "5189.229997",
+                "ayah": 16,
+                "file": 133
+            },
+            {
+                "timestamp": "5237.415384",
+                "ayah": 17,
+                "file": 133
+            },
+            {
+                "timestamp": "5455.815807",
+                "ayah": 18,
+                "file": 133
+            },
+            {
+                "timestamp": "5511.036072",
+                "ayah": 19,
+                "file": 133
+            }
+        ]
+    }
+]
