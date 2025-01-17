@@ -1993,5 +1993,180 @@
                 "file": 135
             }
         ]
+    },
+    {
+        "surah": 31,
+        "data": [
+            {
+                "timestamp": "5010.774107",
+                "ayah": 1,
+                "file": 135
+            },
+            {
+                "timestamp": "5012.280581",
+                "ayah": 2,
+                "file": 135
+            },
+            {
+                "timestamp": "5022.695905",
+                "ayah": 3,
+                "file": 135
+            },
+            {
+                "timestamp": "5052.209088",
+                "ayah": 4,
+                "file": 135
+            },
+            {
+                "timestamp": "5072.31364",
+                "ayah": 5,
+                "file": 135
+            },
+            {
+                "timestamp": "5091.712695",
+                "ayah": 6,
+                "file": 135
+            },
+            {
+                "timestamp": "5336.031912",
+                "ayah": 7,
+                "file": 135
+            },
+            {
+                "timestamp": "5469.741041",
+                "ayah": 8,
+                "file": 135
+            },
+            {
+                "timestamp": "5477.621904",
+                "ayah": 9,
+                "file": 135
+            },
+            {
+                "timestamp": "0",
+                "ayah": 10,
+                "file": 136
+            },
+            {
+                "timestamp": "175.542388",
+                "ayah": 11,
+                "file": 136
+            },
+            {
+                "timestamp": "267.028471",
+                "ayah": 12,
+                "file": 136
+            },
+            {
+                "timestamp": "535.888165",
+                "ayah": 13,
+                "file": 136
+            },
+            {
+                "timestamp": "605.895402",
+                "ayah": 14,
+                "file": 136
+            },
+            {
+                "timestamp": "924.804642",
+                "ayah": 15,
+                "file": 136
+            },
+            {
+                "timestamp": "1085.71278",
+                "ayah": 16,
+                "file": 136
+            },
+            {
+                "timestamp": "1286.527108",
+                "ayah": 17,
+                "file": 136
+            },
+            {
+                "timestamp": "1428.717508",
+                "ayah": 18,
+                "file": 136
+            },
+            {
+                "timestamp": "1828.159722",
+                "ayah": 19,
+                "file": 136
+            },
+            {
+                "timestamp": "2014.663319",
+                "ayah": 20,
+                "file": 136
+            },
+            {
+                "timestamp": "2208.267167",
+                "ayah": 21,
+                "file": 136
+            },
+            {
+                "timestamp": "2290.348788",
+                "ayah": 22,
+                "file": 136
+            },
+            {
+                "timestamp": "2413.032119",
+                "ayah": 23,
+                "file": 136
+            },
+            {
+                "timestamp": "2466.432546",
+                "ayah": 24,
+                "file": 136
+            },
+            {
+                "timestamp": "2571.53784",
+                "ayah": 25,
+                "file": 136
+            },
+            {
+                "timestamp": "2620.279637",
+                "ayah": 26,
+                "file": 136
+            },
+            {
+                "timestamp": "2639.718005",
+                "ayah": 27,
+                "file": 136
+            },
+            {
+                "timestamp": "2857.600464",
+                "ayah": 28,
+                "file": 136
+            },
+            {
+                "timestamp": "2898.703255",
+                "ayah": 29,
+                "file": 136
+            },
+            {
+                "timestamp": "2948.70916",
+                "ayah": 30,
+                "file": 136
+            },
+            {
+                "timestamp": "2999.05564",
+                "ayah": 31,
+                "file": 136
+            },
+            {
+                "timestamp": "3080.518543",
+                "ayah": 32,
+                "file": 136
+            },
+            {
+                "timestamp": "3301.921962",
+                "ayah": 33,
+                "file": 136
+            },
+            {
+                "timestamp": "3726.248975",
+                "ayah": 34,
+                "file": 136
+            }
+        ]
     }
 ]
