@@ -2168,5 +2168,160 @@
                 "file": 136
             }
         ]
+    },
+    {
+        "surah": 32,
+        "data": [
+            {
+                "timestamp": "4100.57001",
+                "ayah": 1,
+                "file": 136
+            },
+            {
+                "timestamp": "4108.942283",
+                "ayah": 2,
+                "file": 136
+            },
+            {
+                "timestamp": "4141.601473",
+                "ayah": 3,
+                "file": 136
+            },
+            {
+                "timestamp": "4223.724129",
+                "ayah": 4,
+                "file": 136
+            },
+            {
+                "timestamp": "4319.842135",
+                "ayah": 5,
+                "file": 136
+            },
+            {
+                "timestamp": "4593.711817",
+                "ayah": 6,
+                "file": 136
+            },
+            {
+                "timestamp": "4627.705593",
+                "ayah": 7,
+                "file": 136
+            },
+            {
+                "timestamp": "4671.739793",
+                "ayah": 8,
+                "file": 136
+            },
+            {
+                "timestamp": "4735.66102",
+                "ayah": 9,
+                "file": 136
+            },
+            {
+                "timestamp": "4919.095378",
+                "ayah": 10,
+                "file": 136
+            },
+            {
+                "timestamp": "4996.016045",
+                "ayah": 11,
+                "file": 136
+            },
+            {
+                "timestamp": "5067.373481",
+                "ayah": 12,
+                "file": 136
+            },
+            {
+                "timestamp": "5261.926765",
+                "ayah": 13,
+                "file": 136
+            },
+            {
+                "timestamp": "5447.104501",
+                "ayah": 14,
+                "file": 136
+            },
+            {
+                "timestamp": "5526.499058",
+                "ayah": 15,
+                "file": 136
+            },
+            {
+                "timestamp": "95.92331",
+                "ayah": 16,
+                "file": 137
+            },
+            {
+                "timestamp": "358.177146",
+                "ayah": 17,
+                "file": 137
+            },
+            {
+                "timestamp": "462.085494",
+                "ayah": 18,
+                "file": 137
+            },
+            {
+                "timestamp": "529.121209",
+                "ayah": 19,
+                "file": 137
+            },
+            {
+                "timestamp": "567.955522",
+                "ayah": 20,
+                "file": 137
+            },
+            {
+                "timestamp": "638.717344",
+                "ayah": 21,
+                "file": 137
+            },
+            {
+                "timestamp": "694.444279",
+                "ayah": 22,
+                "file": 137
+            },
+            {
+                "timestamp": "734.218211",
+                "ayah": 23,
+                "file": 137
+            },
+            {
+                "timestamp": "922.866768",
+                "ayah": 24,
+                "file": 137
+            },
+            {
+                "timestamp": "991.558973",
+                "ayah": 25,
+                "file": 137
+            },
+            {
+                "timestamp": "1041.842279",
+                "ayah": 26,
+                "file": 137
+            },
+            {
+                "timestamp": "1157.644416",
+                "ayah": 27,
+                "file": 137
+            },
+            {
+                "timestamp": "1260.683393",
+                "ayah": 28,
+                "file": 137
+            },
+            {
+                "timestamp": "1291.704862",
+                "ayah": 29,
+                "file": 137
+            },
+            {
+                "timestamp": "1348.439435",
+                "ayah": 30,
+                "file": 137
+            }
+        ]
     }
 ]
